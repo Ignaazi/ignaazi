@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Muhammad Ignazi<br><br>I am a Computer Science student at **President University** and currently a professional at **PT SIIX EMS Indonesia (Karawang)**. I have a strong passion for web development and system automation.<br><br>- 🔭 **Currently Working On**: A PWA-based Web Scanner System for production line monitoring.<br>- ⚡ **Fun Fact**: I bridge the gap between academic theory and real-world industrial manufacturing solutions.<br>- 💬 **Ask Me About**: PHP, MySQL, PWA, and Industrial System Integration.
-
+## 👋 Hi, I'm Muhammad Ignazi<br><br>I am a Computer Science student at **President University** and currently a professional at **PT SIIX EMS Indonesia (Karawang)**. I have a strong passion for web development and system automation.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ignaazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ignazi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ignazihmsm@gmail.com) 
