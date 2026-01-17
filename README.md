@@ -56,9 +56,5 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ignaazi&theme=tokyonight&hide_border=false&cache_id=realtime_update_2026" width="80%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=react&area=true&hide_border=false&cache_id=realtime_update_2026" width="80%" />
 </p>
