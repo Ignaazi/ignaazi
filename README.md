@@ -35,9 +35,9 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 
 ---
 
-### ☁️ Skill Cloud (3D Moving)
+### 🚀 Interactive 3D Skill Cloud
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&layout=donut&theme=tokyonight" width="300px" />
+  <img src="https://github-profile-skills-cloud.vercel.app/api?skills=PHP,Laravel,JavaScript,NodeJS,MySQL,PostgreSQL,Firebase,HTML5,CSS3,Bootstrap,TailwindCSS,Figma,GitHub,Apache,Linux&theme=tokyonight" width="450px" />
 </p>
 
 ---
