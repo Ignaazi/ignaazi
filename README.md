@@ -1,6 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Muhammad%20Ignazi&fontSize=70&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Muhammad%20Ignazi&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+</p>
 
 # 💫 About Me:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZzRycXp6ZzRycXp6ZzRycXp6ZzRycXp6ZzR5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L180pGIYitq75K7YV4/giphy.gif" align="right" width="200">
+
 ## 👋 Hi, I'm Muhammad Ignazi
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Computer+Science+Student;Software+Developer;Professional+at+SIIX+EMS">
 
@@ -11,23 +15,31 @@ I am a Computer Science student at **President University** and currently a prof
 - 💬 **Ask Me About**: PHP, MySQL, PWA, and Industrial System Integration.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ignaazi) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ignazi) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ignazihmsm@gmail.com) 
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,bootstrap,tailwind,jquery,nodejs,git,vscode,figma,firebase,apple)](https://skillicons.dev)
-
-# 📊 GitHub Stats & Activity:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ignaazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
+<p align="left">
+<a href="https://instagram.com/ignaazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/instagram/default.svg" alt="ignaazi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-ignazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linkedin/default.svg" alt="muhammad-ignazi" height="30" width="40" /></a>
+<a href="mailto:ignazihmsm@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=github-dark)
+# 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,bootstrap,tailwind,jquery,nodejs,git,vscode,figma,firebase,apple&theme=dark" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 📊 GitHub Stats & Activity (Anime Style):
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ignaazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=tokyonight" width="100%">
+</p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ignaazi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 <p align="center">
@@ -35,4 +47,4 @@ I am a Computer Science student at **President University** and currently a prof
 </p>
 
 ## 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/082124256797)
+<a href="https://buymeacoffee.com/082124256797" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
