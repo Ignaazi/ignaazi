@@ -39,3 +39,7 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ignaazi&theme=tokyonight&hide_border=false" width="100%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=tokyonight&area=true&hide_border=false" width="100%" />
+</p>
