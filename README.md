@@ -8,8 +8,14 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ignaazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadignazi) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignazihmsm@gmail.com) 
+## 🌐 Connect with Me:
+<p align="left">
+<a href="https://linkedin.com/in/muhammadignazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadignazi" height="30" width="40" /></a>
+<a href="https://instagram.com/ignaazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ignaazi" height="30" width="40" /></a>
+<a href="mailto:ignazihmsm@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ignazihmsm" height="30" width="40" /></a>
+</p>
+
+---
 
 # 💻 Tech Stack:
 <p align="left">
@@ -23,9 +29,6 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ignaazi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ignaazi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ignaazi&icon=9&color=6)](https://visitcount.itsvg.in)
