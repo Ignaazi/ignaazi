@@ -1,3 +1,4 @@
+coba dong untuk system activity agar data update terus padaahal comit sudah lebih dari 31
 # 💫 About Me:
 I am **Muhammad Ignazi**, an **Information System** student at **President University**. Currently, I am working at **PT SIIX EMS Karawang**, where I focus on developing industrial web solutions and automated systems.
 
@@ -10,41 +11,41 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 
 ## 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/muhammadignazi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="https://instagram.com/ignaazi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:ignazihmsm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
+  <a href="https://linkedin.com/in/muhammadignazi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="https://instagram.com/ignaazi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:ignazihmsm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
 </p>
 
 ---
 
 # 💻 Tech Stack (Core Systems):
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,sqlite,mongodb,firebase,npm&perline=9" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,sqlite,mongodb,firebase,npm&perline=9" />
 </p>
 
 # 🎨 Tech Stack (Interface & Tools):
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,github,linux,apache&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,github,linux,apache&perline=9" />
 </p>
 
 ---
 
 ### 🚀 System Activity & Identity
 <table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ignaazi&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true&v=FORCE_UPDATE_2026" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAAZI;SISTEM+INFORMASI;SIIX+EMS+KARAWANG;FULLSTACK+DEVELOPER" width="100%" />
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ignaazi&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&v=20260118" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAAZI;SISTEM+INFORMASI;SIIX+EMS+KARAWANG;FULLSTACK+DEVELOPER" width="100%" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -52,13 +53,13 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 # 📊 GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&v=FORCE_UPDATE_2026" width="80%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true&v=20260118" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ignaazi&theme=tokyonight&hide_border=false&v=FORCE_UPDATE_2026" width="80%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ignaazi&theme=tokyonight&hide_border=false&v=20260118" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=react&area=true&hide_border=false&v=FORCE_UPDATE_2026" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=react&area=true&hide_border=false" width="80%" />
 </p>
