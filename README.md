@@ -39,7 +39,7 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://metrics.lecoq.io/ignaazi?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year" width="100%" />
+      <img src="https://metrics.lecoq.io/ignaazi?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&config_timezone=Asia/Jakarta" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAAZI;SISTEM+INFORMASI;SIIX+EMS+KARAWANG;FULLSTACK+DEVELOPER" width="100%" />
