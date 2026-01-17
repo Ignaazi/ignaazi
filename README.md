@@ -42,7 +42,7 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ignaazi&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&v=20260118" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAZI;SISTEM+INFORMASI;SIIX+EMS+KARAWANG;FULLSTACK+DEVELOPER" width="100%" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAAZI;SISTEM+INFORMASI;SIIX+EMS+KARAWANG;FULLSTACK+DEVELOPER" width="100%" />
     </td>
   </tr>
 </table>
