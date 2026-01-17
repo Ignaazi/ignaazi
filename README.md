@@ -41,18 +41,3 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ignaazi&theme=tokyonight&hide_border=false" width="100%"/>
-</p>
-
-## 🏆 Achievements & Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ignaazi&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%"/>
-</p>
-
----
-<p align="right">
-  <a href="https://visitcount.itsvg.in/api?id=ignaazi&icon=9&color=6">
-    <img src="https://visitcount.itsvg.in/api?id=ignaazi&icon=9&color=6" />
-  </a>
-</p>
