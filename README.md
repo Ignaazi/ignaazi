@@ -1,11 +1,8 @@
 <div align="center">
 
-# ⚡ [ SYSTEM CORE: MUHAMMAD IGNAZI ] ⚡
-### 🎓 President University | 🏭 PT SIIX EMS Indonesia
+# ⚡ [ MUHAMMAD IGNAZI ] ⚡
+### 🎓 President University | PT SIIX EMS Indonesia
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=CORE_SYSTEM_DEVELOPER;INDUSTRIAL_PWA_SPECIALIST;DATABASE_ARCHITECT" alt="Typing SVG" />
-
----
 
 ### 🐍 CONTRIBUTION_SNAKE
 <picture>
