@@ -41,5 +41,5 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=tokyonight&area=true&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=react&area=true&hide_border=false" width="100%" />
 </p>
