@@ -36,9 +36,9 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 ---
 
 # 📊 GitHub Analytics:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignaazi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=ignaazi&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
