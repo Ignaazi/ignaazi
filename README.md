@@ -35,18 +35,23 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 
 ---
 
+### ☁️ Skill Cloud (3D Moving)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&layout=donut&theme=tokyonight" width="300px" />
+</p>
+
 ---
 
 # 📊 GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ignaazi&theme=tokyonight&hide_border=false" width="100%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ignaazi&theme=tokyonight&hide_border=false" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=react&area=true&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaazi&theme=react&area=true&hide_border=false" width="80%" />
 </p>
