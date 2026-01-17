@@ -37,7 +37,7 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 
 ### 🚀 System Activity & Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&layout=donut&theme=tokyonight&hide_border=true" width="350px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 # 📊 GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true" width="80%" />
 </p>
 
 <p align="center">
