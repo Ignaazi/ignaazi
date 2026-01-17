@@ -39,10 +39,10 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ignaazi&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ignaazi&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&cache=123" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAAZI;SISTEM+INFORMASI;SIIX+EMS+KARAWANG;FULLSTACK+DEVELOPER" width="100%" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=36BCF7&background=0D111700&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAAZI;SISTEM+INFORMASI;SIIX+EMS+KARAWANG;FULLSTACK+DEVELOPER" width="100%" />
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 # 📊 GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true" width="80%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignaazi&layout=compact&theme=tokyonight&count_private=true&cache=123" width="80%" />
 </p>
 
 <p align="center">
