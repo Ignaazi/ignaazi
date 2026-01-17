@@ -35,9 +35,10 @@ I am **Muhammad Ignazi**, an **Information System** student at **President Unive
 
 ---
 
-### 🚀 System Activity & Skills
+### 🚀 System Activity & Identity
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+  <img src="https://metrics.lecoq.io/ignaazi?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year" width="45%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=MUHAMMAD+IGNAAZI;SOFTWARE+DEVELOPER;@ignaazi;SIIX+EMS+KARAWANG" width="45%" />
 </p>
 
 ---
