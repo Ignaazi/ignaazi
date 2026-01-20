@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am **Muhammad Ignazi**, an **Information System** student at **President University**. Currently, I am working at **PT SIIX EMS Karawang**, where I focus on developing industrial web solutions and automated systems.
+I am **Muhammad Ignazi**, an **Information System** student at **President University**. Currently, I am working at **PT SIIX EMS Karawang**, As an SMT Programer
 
 ---
 
